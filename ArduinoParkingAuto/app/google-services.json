@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837371841465",
+    "project_id": "arduinoparkingauto",
+    "storage_bucket": "arduinoparkingauto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837371841465:android:b0c9f0d43b8099b64d0468",
+        "android_client_info": {
+          "package_name": "com.arduinoparkingauto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EvUkC7g8MAUdbQG5nkB1MPY0lT4sdbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
